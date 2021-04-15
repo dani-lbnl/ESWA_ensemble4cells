@@ -6,11 +6,11 @@
 <table border="0">
  <tr>
     <td>
-     <img src="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/selfdrive.png" width="400"> 
-     <p> http://bit.ly/selfdrivinglab
+     <img src="https://github.com/dani-lbnl/ESWA_ensemble4cells/blob/main/superpixel.png" width="400"> 
+     <p> SLIC result
     </td>
     <td>
      <p>
-This work proposes an ensemble method for cervical nuclei detection, aimed to reduce the workload of cytopathologists. First, a preprocessing phase divides the original image into superpixels, which are input to feature extraction and selection algorithms. The proposed ensemble method combines three classifiers: Decision Tree (DT), Nearest Centroid (NC), and k-Nearest Neighbors (k-NN)., which are evaluated against the ISBI'14 Overlapping Cervical Cytology Image Segmentation Challenge dataset.
+This work proposes an ensemble method for cervical nuclei detection, aimed to reduce the workload of cytopathologists. First, a preprocessing phase divides the original image into superpixels, which are input to feature extraction and selection algorithms. The proposed ensemble method combines three classifiers: Decision Tree (DT), Nearest Centroid (NC), and k-Nearest Neighbors (k-NN)., which are evaluated against the ISBI'14 Overlapping Cervical Cytology Image Segmentation Challenge dataset. On the left, we show the a result of Simple Linear Iterative Clustering Algorithm (SLIC) in obtaining superpixels.
  </tr>
 </table>
