@@ -6,7 +6,7 @@
 <table border="0">
  <tr>
     <td>
-     <img src="https://github.com/dani-lbnl/ESWA_ensemble4cells/blob/main/superpixel.png" width="400"> 
+     <img src="https://github.com/dani-lbnl/ESWA_ensemble4cells/blob/main/superpixel.png" width="800"> 
      <p> SLIC result
     </td>
     <td>
