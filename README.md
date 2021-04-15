@@ -1,7 +1,8 @@
 # A novel ensemble method for nuclei detection of overlapping cervical cells
-- this repo: ESWA_ensemble4cells
+- authors: Débora Nasser Diniz, Rafael Ferreira Vitor, Andrea Gomes Campos Bianchi, Saul Emanuel Delabrida Silva, Cláudia Martins Carneiro, Daniela Mayumi Ushizima, Fátima Nelsizeuma Sombra de Medeiros, Marcone Jamilson Freitas Souza
 - paper source: [[link]](https://github.com/dani-lbnl/ESWA-_Diniz2021/tree/main)
-- codes: COMING SOON 
+- data: [[link]] 
+- codes: COMING SOON
 
 <table border="0">
  <tr>
